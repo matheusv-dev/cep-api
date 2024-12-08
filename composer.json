@@ -1,0 +1,17 @@
+{
+  "name": "matheus/cep-api",
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Matheus Vieira",
+      "email": "matheus555vieira@gmail.com"
+    }
+  ],
+  "require": {
+    "coffeecode/router": "^2.0"
+  }
+}
